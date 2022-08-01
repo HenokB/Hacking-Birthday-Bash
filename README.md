@@ -10,4 +10,4 @@ https://t.me/birthday_help_bot
 - For telegram `pip install telegram-python-bot'
 
 
-# This project is made for MLH's Hacking-Birthday-Bash
+This project is made for MLH's Hacking-Birthday-Bash
