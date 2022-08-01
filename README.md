@@ -6,8 +6,8 @@ https://t.me/birthday_help_bot
 
 
 ## To get started with this project you need to get a telegram API key and Cohere API key then 
-To install cohere `pip install cohere`
-For telegram `pip install telegram-python-bot
+- To install cohere `pip install cohere`
+- For telegram `pip install telegram-python-bot'
 
 
 # This project is made for MLH's Hacking-Birthday-Bash
